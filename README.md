@@ -11,5 +11,4 @@ Aggregators - This competency includes using aggregations such as SUM, COUNT, AV
 
 ## Questions 
 [student-advisor.sql](https://github.com/binodkshetry/hackerrank-SQLbasic-certification-solution/blob/main/student-advisor.sql)
-
-
+[student_analysis.sql] 
