@@ -3,7 +3,8 @@ It's amazing to take hackerrank certification and to accept the challenge as a J
 
 The challenge has two questions and we basically need to query a database that contains students and faculty information. This competency includes 
 
-Simple queries - using SELECT, JOIN, GROUP BY, ORDER BY, WHERE and LIMIT. 
+Simple queries - using SELECT, JOIN, GROUP BY, ORDER BY, WHERE and LIMIT.
+
 Relationships - This competency includes using JOIN in a one-to-many relationship scenario.
 Aggregators - This competency includes using aggregations such as SUM, COUNT, AVG. 
 
