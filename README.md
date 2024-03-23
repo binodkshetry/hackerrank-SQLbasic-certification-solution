@@ -9,7 +9,7 @@ Relationships - This competency includes using JOIN in a one-to-many relationshi
 
 Aggregators - This competency includes using aggregations such as SUM, COUNT, AVG. 
 
-## Questions 
+## Questions/Solutions
 [student-advisor.sql](https://github.com/binodkshetry/hackerrank-SQLbasic-certification-solution/blob/main/student-advisor.sql)
 
 [student_analysis.sql](https://github.com/binodkshetry/hackerrank-SQLbasic-certification-solution/blob/main/student-analysis.sql)
